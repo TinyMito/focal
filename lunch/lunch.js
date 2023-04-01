@@ -10,7 +10,7 @@
  *
  * hungry is a Boolean, representing if you're hungry or not.
  * availableTime is a Number representing the time you have for lunch,
- * in minutes.
+ * in minutes. 
  */
 
 const whatToDoForLunch = function(hungry, availableTime) {
